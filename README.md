@@ -3,6 +3,9 @@
 This repository contains code for a health insurance price prediction model. The model is built using machine learning techniques and can predict the potential health insurance cost based on various input features. The prediction is made through a Streamlit web application, providing an interactive and user-friendly experience.
 
 ## 📌Sneak Peek of Page :
+<img width="1440" alt="Screenshot 2023-08-04 at 6 01 08 PM" src="https://github.com/harshk04/insurance-price-prediction/assets/115946158/e78abe6c-fc77-42f5-ac43-11c6c2b32ae5">
+<img width="1440" alt="Screenshot 2023-08-04 at 6 01 22 PM" src="https://github.com/harshk04/insurance-price-prediction/assets/115946158/1aca7c5d-dbee-4862-bd7e-a8ca1dfc81af">
+<img width="1440" alt="Screenshot 2023-08-04 at 6 01 35 PM" src="https://github.com/harshk04/insurance-price-prediction/assets/115946158/79424001-9b3b-4ca3-bbd9-460ae7632f91">
 
 ## Table of Contents
 1. Introduction
@@ -24,9 +27,12 @@ The dataset used for training and testing the model is not included in this repo
 ## Getting Started 🚀
 To use this project locally, follow these steps:
 
-Clone the repository: `git clone https://github.com/yourusername/health-insurance-prediction.git`
+**Clone the repository:** `git clone https://github.com/yourusername/health-insurance-prediction.git`
+
 **Navigate to the project directory:** `cd health-insurance-prediction`
+
 **Install the required dependencies:** `pip install -r requirements.txt`
+
 **Run the Streamlit application:** `streamlit run app.py`
 
 ## Usage 🛠️
